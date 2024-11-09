@@ -8,23 +8,23 @@ This plugin allows you to create custom visual frames to organize and represent 
 1. Go to [Figma Web App](https://www.figma.com) or download [Figma for your operating system](https://www.figma.com/downloads/), create a proyect and right click on the canvas.
 2. Select "Plugins" then "Manage Plugins...".
    
-   ![Step 2 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step2?raw=true)
+   ![Step 2 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step2.png?raw=true)
 
 3. Type "Simple Task Creator" and select the one showed in the image.
 
-    ![Step 3 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step3?raw=true)
+    ![Step 3 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step3.png?raw=true)
 
 4. Click on "Run".
    
-    ![Step 4 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step4?raw=true)
+    ![Step 4 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step4.png?raw=true)
 
 5. The plugin UI will show and you will be able to enter a title, description and select type for your task.
 
-    ![Step 5 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step5?raw=true)
+    ![Step 5 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step5.png?raw=true)
 
 6. After clicking "Create", a frame for your task will be created and can be managed on the canvas.
    
-    ![Step 6 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step6?raw=true)
+    ![Step 6 Image](https://github.com/Davvii1/simple-task-creator-figma/blob/main/resources/step6.png?raw=true)
 
 ## Built with React, Typescript, Tailwind and Webpack
 
